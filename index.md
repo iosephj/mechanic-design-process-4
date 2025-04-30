@@ -25,6 +25,8 @@ version: "01/03/25"
 
 - [3. Tipos de errores](03_metrology_3.html)
 
+- [4. Clasificación de instrumentos de medición](04_metrology_4.html)
+
 
 <span hidden>Fin archivo</span>
 
